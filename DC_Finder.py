@@ -62,4 +62,4 @@ def main():
     print("\n[✓] Çıktı domain_controllers.txt dosyasına yazıldı.")
 
 if __name__ == "__main__":
-    main()
+    main()
